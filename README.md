@@ -1,3 +1,15 @@
+# YouTube clone app
+App was created for learning work with youtube api and material-ui.
+
+## The first view shows the default search -> 'music' :
+
+![Screenshot_1](https://user-images.githubusercontent.com/50556211/88693759-f8f0f400-d0ff-11ea-84f5-278ee8fad9b7.png)
+
+## Second screen after enter word -> 'dragon' : 
+![Screenshot_2](https://user-images.githubusercontent.com/50556211/88693768-fd1d1180-d0ff-11ea-9fe4-0a0aca3bdf6e.png)
+  ...and description:
+![Screenshot_3](https://user-images.githubusercontent.com/50556211/88693752-f5f60380-d0ff-11ea-8095-8ea3b5835a8c.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
