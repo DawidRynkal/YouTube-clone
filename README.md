@@ -1,4 +1,5 @@
 # YouTube clone app
+Demo link: https://dawidrynkal.github.io/YouTube-clone/
 App was created for learning work with youtube api and material-ui.
 
 ## The first view shows the default search -> 'music' :
